@@ -173,7 +173,7 @@ body, #root {
 @font-face {
   font-family: "East Lift";
   src:
-    url("East_Lift.ttf") format("truetype"),
+    url("$fonts/East_Lift.ttf") format("truetype"),
 }
 
 
